@@ -1,6 +1,6 @@
 #
 # This pipeline needs the following tasks from Tekton Hub
-#   - git-clone
+#   - egit-clon
 #   - flake8
 #
 ---
